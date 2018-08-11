@@ -1,0 +1,57 @@
+2018-08-11T04:29:33.350Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-11T04:29:33.355Z - normal: checking language setting...
+2018-08-11T04:29:33.355Z - normal: Language: zh
+2018-08-11T04:29:35.659Z - success: protocol editor-framework registered
+2018-08-11T04:29:35.659Z - success: protocol app registered
+2018-08-11T04:29:35.659Z - success: protocol theme registered
+2018-08-11T04:29:35.659Z - success: protocol packages registered
+2018-08-11T04:29:35.659Z - success: protocol unpack registerred
+2018-08-11T04:29:35.660Z - success: protocol disable-commonjs registerred
+2018-08-11T04:29:36.044Z - normal: connected!
+2018-08-11T04:29:36.049Z - normal: Check project E:\Cocos\start_project_ts\start_project
+2018-08-11T04:29:36.059Z - normal: Initializing Cocos2d
+2018-08-11T04:29:36.332Z - normal: Initializing Asset Database
+2018-08-11T04:29:36.377Z - success: protocol uuid registerred
+2018-08-11T04:29:36.377Z - success: protocol db registerred
+2018-08-11T04:29:36.377Z - success: protocol thumbnail registerred
+2018-08-11T04:29:36.378Z - normal: Loading editor/builtin packages
+2018-08-11T04:29:36.405Z - success: anysdk loaded
+2018-08-11T04:29:36.572Z - success: assets loaded
+2018-08-11T04:29:36.575Z - success: builder loaded
+2018-08-11T04:29:36.578Z - success: cocos-analytics loaded
+2018-08-11T04:29:36.581Z - success: console loaded
+2018-08-11T04:29:36.631Z - success: fb-instant-games loaded
+2018-08-11T04:29:36.634Z - success: hierarchy loaded
+2018-08-11T04:29:36.637Z - success: inspector loaded
+2018-08-11T04:29:36.639Z - success: keystore loaded
+2018-08-11T04:29:36.642Z - success: node-library loaded
+2018-08-11T04:29:36.644Z - success: package-asset loaded
+2018-08-11T04:29:36.647Z - success: preferences loaded
+2018-08-11T04:29:36.649Z - success: project-exporter loaded
+2018-08-11T04:29:36.668Z - success: project-importer loaded
+2018-08-11T04:29:36.670Z - success: project-settings loaded
+2018-08-11T04:29:36.673Z - success: ui-kit loaded
+2018-08-11T04:29:36.676Z - success: ui-grid loaded
+2018-08-11T04:29:36.680Z - success: scene loaded
+2018-08-11T04:29:36.681Z - success: sprite-editor loaded
+2018-08-11T04:29:36.685Z - success: store loaded
+2018-08-11T04:29:36.689Z - success: timeline loaded
+2018-08-11T04:29:36.689Z - normal: Loading builtin packages
+2018-08-11T04:29:36.693Z - success: asset-db-debugger loaded
+2018-08-11T04:29:36.695Z - success: code-editor loaded
+2018-08-11T04:29:36.695Z - success: color-picker loaded
+2018-08-11T04:29:36.698Z - success: package-manager loaded
+2018-08-11T04:29:36.700Z - success: qqplay-adapter loaded
+2018-08-11T04:29:36.705Z - success: sdkbox loaded
+2018-08-11T04:29:36.710Z - success: tester loaded
+2018-08-11T04:29:36.712Z - success: ui-kit-preview-extra loaded
+2018-08-11T04:29:36.715Z - success: ui-kit-preview loaded
+2018-08-11T04:29:36.717Z - success: ui-tree loaded
+2018-08-11T04:29:36.717Z - success: weapp-adapter loaded
+2018-08-11T04:29:38.190Z - normal: Initializing project E:\Cocos\start_project_ts\start_project
+2018-08-11T04:29:38.195Z - normal: Loading packages
+2018-08-11T04:29:38.204Z - normal: Watching packages
+2018-08-11T04:29:38.704Z - normal: Run Application
+2018-08-11T04:29:39.467Z - success: preview server running at http://localhost:7456
+2018-08-11T04:29:46.226Z - normal: 1.9.3
+2018-08-11T05:52:28.666Z - info: shutdown preview server
